@@ -1,6 +1,6 @@
 # Demineur
 
-  # You have to install pygame
+  ## You have to install pygame
 
     usage : python3 GUI.py
    
